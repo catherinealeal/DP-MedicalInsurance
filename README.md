@@ -8,4 +8,4 @@ The goal of this project is to build a linear regression model that predicts an 
 
 ## Can annual expenditure be predicted by a customer's age? (Simple Linear Model)
 
-![image](<img width="671" height="481" alt="Screenshot 2025-08-19 at 12 20 58 PM" src="https://github.com/user-attachments/assets/e7b2430e-ddbf-486a-8a38-cf95b10617a2" />)
+![image]()
