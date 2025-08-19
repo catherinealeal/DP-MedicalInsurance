@@ -48,7 +48,7 @@ R-Squared of Reduced Multiple Linear Model = 0.7214
 
 ## Conclusion
 
-- The final regression model is: $AnnualMedicalExpenses = 23855.3*SmokerStatus + 274.87*Age - 2391.63$ where SmokerStatus = 0 for non-smokers and 1 for smokers.
-- The expected monthly premium can be computed as: $MonthlyPremium = AnnualMedicalExpenses / 12$
+- The final regression model is: AnnualMedicalExpenses = 23855.3*SmokerStatus + 274.87*Age - 2391.63 where SmokerStatus = 0 for non-smokers and 1 for smokers.
+- The expected monthly premium can be computed as: MonthlyPremium = AnnualMedicalExpenses / 12
 - This model allows ACME Inc. to quickly estimate medical costs and assign premiums for new customers based on only two pieces of information: age and smoking status.
 - Because the model explains more than 70% of the variation in annual expenses, ACME Inc. and their customers can be confident that the premiums are fair, data-driven, and reasonably accurate.
