@@ -9,3 +9,11 @@ The goal of this project is to build a linear regression model that predicts an 
 ## Can annual expenditure be predicted by a customer's age? (Simple Linear Model)
 
 ![image](https://github.com/catherinealeal/DP-MedicalInsurance/blob/main/images/SLMPlot.png)
+
+With actual values in green and predicted values in purple, it is clear to see that a simple linear model using age as the predictor performs poorly in predicting individuals' annual medical costs. 
+
+![image](https://github.com/catherinealeal/DP-MedicalInsurance/blob/main/images/res1.png)
+
+If regressing on age was enough to capture the variability in annual expenses, the residuals would be evenly distributed around 0. However, the residuals are positively skewed, indicating the requirement for a more complex model. 
+
+**No, annual expenditure cannot be predicted by an individual's age alone.** With an R-squared of just 0.089, I can confidently conclude that age is not sufficient for predicting annual expenses. The model explains very little of the variability in medical costs and performs almost as poorly as the mean. 
