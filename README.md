@@ -52,3 +52,5 @@ R-Squared of Reduced Multiple Linear Model = 0.7214
 - The expected monthly premium can be computed as: MonthlyPremium = AnnualMedicalExpenses / 12
 - This model allows ACME Inc. to quickly estimate medical costs and assign premiums for new customers based on only two pieces of information: age and smoking status.
 - Because the model explains more than 70% of the variation in annual expenses, ACME Inc. and their customers can be confident that the premiums are fair, data-driven, and reasonably accurate.
+
+#### View the full project [here](https://github.com/catherinealeal/DP-MedicalInsurance/blob/main/InsuranceCostPrediction.ipynb)
